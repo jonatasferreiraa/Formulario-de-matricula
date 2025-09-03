@@ -20,3 +20,7 @@
   --stroke-highlight: #f3541c;
   --semantic-error: #dc2626;
 }
+
+body {
+  overflow: hidden;
+}
