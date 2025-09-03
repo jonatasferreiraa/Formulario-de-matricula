@@ -19,6 +19,8 @@
   --stroke-default: #d6d3d1;
   --stroke-highlight: #f3541c;
   --semantic-error: #dc2626;
+
+  zoom: 70%;
 }
 
 body {
