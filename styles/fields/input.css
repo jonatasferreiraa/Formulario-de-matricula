@@ -60,7 +60,7 @@ select {
   opacity: 0.5;
 }
 
-.input {
+input {
   & [disabled] {
     background-color: var(--surface-disabled);
     border: 1px solid var(--stroke-default);
@@ -90,7 +90,9 @@ select {
     margin-top: 0.25rem;
   }
 
-  &:not(:focus):valid + .error {
+  &:not(:focus):valid + .error,
+  &:not(:focus):empty + .error,
+  &:valid + .error {
     display: none;
   }
 }
