@@ -20,18 +20,17 @@ A escolha dessas tecnologias se deu pela simplicidade e eficácia na construçã
 
 Navegador web atualizado (Chrome, Firefox, Safari, etc.)
 
-Etapas
+<h3>Etapas</h3>
 
-Clone este repositório em sua máquina local:
+<strong>Clone este repositório em sua máquina local:</strong>
 
-<code>git clone https://github.com/jonatasferreiraa/Formulario-de-matricula.git
-</code>
-
+<code> git clone https://github.com/jonatasferreiraa/Formulario-de-matricula.git </code>
 
 
-Navegue até o diretório do projeto:
-<code>cd Formulario-de-matricula
-</code>
+
+<strong>Navegue até o diretório do projeto:</strong>
+
+<code> cd Formulario-de-matricula </code>
 
 
 
@@ -50,6 +49,7 @@ Para personalizar, edite os arquivos index.html e styles.css conforme necessári
 
 Este projeto é de uso pessoal e foi desenvolvido como parte de um estudo na Rocketseat. A permissão é concedida apenas para visualização e aprendizado. Não é permitido o uso comercial ou distribuição sem autorização prévia.
 
-Contribuição
+
+<h2>Contribuição</h2>
 
 Este repositório é de uso pessoal e não está aberto para contribuições externas. Agradeço pelo interesse e incentivo ao aprendizado contínuo.
