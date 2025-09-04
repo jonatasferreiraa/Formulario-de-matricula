@@ -1,7 +1,7 @@
-📋 Formulário de Matrícula
+<h1>📋 Formulário de Matrícula</h1>
 
 
-Descrição
+<h3>Descrição</h3>
 
 Este projeto consiste em um formulário de matrícula desenvolvido com HTML e CSS. O objetivo é criar uma interface simples e funcional para coleta de dados de matrícula, aplicando conceitos básicos de desenvolvimento web.
 
@@ -11,12 +11,12 @@ HTML
 
 CSS
 
-Motivação:
+<h3>Motivação</h3>
 
 A escolha dessas tecnologias se deu pela simplicidade e eficácia na construção de interfaces estáticas, ideais para projetos de estudo e aprendizado.
 
-Instruções de Instalação
-Pré-requisitos
+<h2>Instruções de Instalação </h2>
+<h3>Pré-requisitos</h3>
 
 Navegador web atualizado (Chrome, Firefox, Safari, etc.)
 
