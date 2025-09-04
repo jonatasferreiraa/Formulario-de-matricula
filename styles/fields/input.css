@@ -27,7 +27,7 @@ input[type="date"]:focus-within {
   outline-offset: 0.1px;
 }
 
-input[type="date"] {
+input [type="date"] {
   position: relative;
 
   &::-webkit-calendar-picker-indicator {
@@ -61,7 +61,7 @@ select {
 }
 
 .input {
-  &[disabled] {
+  & [disabled] {
     background-color: var(--surface-disabled);
     border: 1px solid var(--stroke-default);
     color: var(--text-primary);
@@ -79,7 +79,7 @@ select {
     margin-top: 0.25rem;
   }
 
-  &[required] + .error {
+  & [required] + .error {
     display: flex;
     align-items: center;
     gap: 0.25rem;
