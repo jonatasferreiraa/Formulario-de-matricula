@@ -24,23 +24,29 @@ Etapas
 
 Clone este repositório em sua máquina local:
 
-git clone https://github.com/jonatasferreiraa/Formulario-de-matricula.git
+<code>git clone https://github.com/jonatasferreiraa/Formulario-de-matricula.git
+</code>
+
 
 
 Navegue até o diretório do projeto:
+<code>cd Formulario-de-matricula
+</code>
 
-cd Formulario-de-matricula
 
 
 Abra o arquivo index.html em seu navegador para visualizar o formulário.
 
-Instruções de Uso
+<h2>Instruções de Uso </h2>
+
 
 O formulário está pronto para ser utilizado em qualquer navegador moderno.
 
 Para personalizar, edite os arquivos index.html e styles.css conforme necessário.
 
-Licença
+
+<h2>Licença </h2>
+
 
 Este projeto é de uso pessoal e foi desenvolvido como parte de um estudo na Rocketseat. A permissão é concedida apenas para visualização e aprendizado. Não é permitido o uso comercial ou distribuição sem autorização prévia.
 
